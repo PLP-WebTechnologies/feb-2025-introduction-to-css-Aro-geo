@@ -1,0 +1,31 @@
+/* General body styling: Sets the font, margin, padding, and background color */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 10px;
+    background-color: #f4f4f4;
+}
+
+/* Styling for the main heading (h1): Sets color, alignment, and spacing */
+h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Styling for images: Adds border, rounded corners, and centers the image */
+img {
+    border: 5px solid #555;
+    border-radius: 10px;
+    margin: 20px auto;
+    display: block;
+    max-width: 100%;
+}
+
+/* Styling for paragraphs: Sets font size, line height, color, and spacing */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #666;
+    margin: 10px 0;
+}
